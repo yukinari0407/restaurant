@@ -1,0 +1,70 @@
+@charset "UTF-8";
+body {
+    height: 100vh;
+    margin: 0;
+}
+
+div#wrapper {
+    height: 100vh;
+    width: 500px;
+    margin: 0 auto;
+    background-color: #CCC;
+    padding: 50px;
+}
+h1 {
+    margin-top: 0;
+    text-align: center;
+}
+div#restaunt_list {
+    height: 280px;
+    background-color: white;
+    border: solid 2px red;
+    padding: 20px;
+}
+h2 {
+    margin: 0 0 0 0;
+}
+ul {
+    list-style-type: square;
+}
+.red {
+    color: red;
+}
+.bg-pink {
+    background-color: pink;
+    margin-right: 20px;
+}
+li {
+    margin-bottom: 5px;
+}
+p.a {
+    margin: 20px;
+    padding: 5px;
+    background-color: #f1f1f1;
+}
+div#recommended_foods {
+    height: 400px;
+    background-color: white;
+    border: solid 2px #0053ff;
+    padding: 20px;
+    margin-top: 3pc;
+}
+dl {
+    margin-top: 5px;
+}
+dt {
+    margin-bottom: 0;
+    border-left: solid 9px blue;
+    border-bottom: dashed 1px blue;
+    margin-top: 10px;
+    padding-left: 5px;
+    font-weight: bold;
+}
+dd {
+    margin-left: 20px;
+}
+#b {
+    margin: 20px 15px;
+    padding: 5px;
+    background-color: #f1f1f1;
+}
